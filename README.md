@@ -39,9 +39,9 @@ A project blending computer vision with affective computing.
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SedikiAyman&show_icons=true&theme=gruvbox" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AymanSediki&show_icons=true&theme=gruvbox" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SedikiAyman&theme=gruvbox&hide_border=true" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AymanSediki&theme=gruvbox&hide_border=true" alt="Streak stats" />
 </p>
 
 ---
