@@ -19,9 +19,12 @@
 
 ## 🛠️ Technical Stack
 
-- **Languages**: Python, R, SQL  
-- **Libraries/Frameworks**: TensorFlow, Keras, Scikit-learn  
-- **Tools**: Git, Jupyter, VS Code, Azure ML Studio  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ---
 
@@ -29,7 +32,7 @@
 
 **Emoscope** – A CNN-based facial emotion detection system.  
 A project blending computer vision with affective computing.  
-🔗 [GitHub Repo](https://github.com/http-idrissi-gh/Emoscope)
+🔗 [GitHub Repo](https://github.com/AymanSediki/Emo-Scope)
 
 ---
 
@@ -63,6 +66,6 @@ In my free time, I enjoy:
 
 <p align="center">
   <em>“Keep exploring, keep learning.”</em><br/>
-  <img src="https://media.giphy.com/media/3ohc12Qd8WnPy6zzZS/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" />
 </p>
 
