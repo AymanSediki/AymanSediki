@@ -8,7 +8,7 @@
 
 ## 👤 Profile
 
-- 🌱 Enthusiastic about **Machine Learning**, **Data Science**..  
+- 🌱 Enthusiastic about **Machine Learning**, **Data Science**. 
 - 🧠 Solid foundation in **mathematics** and **statistics** applied to real-world data problems.  
 - 🛠️ Proficient in **Python**, **R**, and **SQL** with practical experience in:  
   - Designing and implementing machine learning models (e.g., regression, neural networks, decision trees, PCA)  
